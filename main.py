@@ -8,7 +8,6 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-TOKEN = "7633150137:AAELwitp1R9ZB7V4RDrwWGyz4O48VDXXumA"
 
 # Укажите здесь ID администратора, чьи сообщения бот не должен проверять
 ADMIN_ID = 5146454740  # Замените на реальный ID администратора
